@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagedList", "PagedList\PagedList.csproj", "{B8B7A472-6FD9-407B-ABC3-08AC483A788A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagedList.Tests", "PagedList.Tests\PagedList.Tests.csproj", "{23DC76DE-75E2-494D-B249-B44BE3FFC83E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B7A472-6FD9-407B-ABC3-08AC483A788A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B7A472-6FD9-407B-ABC3-08AC483A788A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B7A472-6FD9-407B-ABC3-08AC483A788A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B7A472-6FD9-407B-ABC3-08AC483A788A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23DC76DE-75E2-494D-B249-B44BE3FFC83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DC76DE-75E2-494D-B249-B44BE3FFC83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DC76DE-75E2-494D-B249-B44BE3FFC83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DC76DE-75E2-494D-B249-B44BE3FFC83E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
